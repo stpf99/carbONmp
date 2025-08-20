@@ -2,4 +2,4 @@
 
 
 
-<img width="964" alt="carboNmp" src="https://github.com/stpf99/carbONmp/blob/f17d213c30e1361e56a8aa2d8e65cb2dcf0a0f01/Zrzut%20ekranu%20z%202025-08-18%2011-09-06.png">
+<img width="964" alt="carboNmp" src="https://github.com/stpf99/carbONmp/blob/dd77b6a76668e110f3728f9755f1c98422e617f9/Zrzut%20ekranu%20z%202025-08-20%2008-16-11.png">
