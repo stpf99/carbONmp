@@ -1,4 +1,5 @@
-Current version: CarbonfX12g.py
+Current version: CarbonfX12g.py some domestic limiting
+
 Final (audio /accustic) version: CarbonXI.py
 
 
