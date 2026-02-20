@@ -1,4 +1,4 @@
-Current version: CarbonfX12g.py some domestic limiting
+Current version: CarbonfX12g_v5.py //scenarios and stereo phantom
 
 Final (audio /accustic) version: CarbonXI.py
 
